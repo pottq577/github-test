@@ -39,7 +39,7 @@ out/
 ### macOS template
 # General
 .DS_Store
-./src/.DS_Store
+**/src/.DS_Store
 .AppleDouble
 .LSOverride
 
