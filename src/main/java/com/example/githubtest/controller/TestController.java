@@ -11,4 +11,8 @@ public class TestController {
         System.out.println("do something else ...");
     }
 
+    public void doSomethingpandaa(){
+        System.out.println("do something ...");
+    }
+
 }
