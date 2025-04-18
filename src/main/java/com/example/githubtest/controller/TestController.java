@@ -10,9 +10,4 @@ public class TestController {
     public void doSomethingElse(){
         System.out.println("do something else ...");
     }
-
-    public void doSomethingpandaa(){
-        System.out.println("do something ...");
-    }
-
 }
